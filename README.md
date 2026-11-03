@@ -45,7 +45,8 @@ exercices_poo/
 
 **Résultat de l'exécution :**
 
-![Résultat exercice 1](images/ex1.png)
+![Résultat exercice 1](<img width="1280" height="720" alt="ex1" src="https://github.com/user-attachments/assets/811c1c37-3e65-457d-bd8b-3a066e91f517" />
+)
 
 ---
 
@@ -59,7 +60,8 @@ exercices_poo/
 
 **Résultat de l'exécution :**
 
-![Résultat exercice 2](images/ex2.png)
+![Résultat exercice 2](<img width="1280" height="720" alt="ex2" src="https://github.com/user-attachments/assets/02f9c243-1896-4a64-9958-ecaaa3999bd1" />
+)
 
 ---
 
@@ -73,7 +75,8 @@ exercices_poo/
 
 **Résultat de l'exécution :**
 
-![Résultat exercice 3](images/ex3.png)
+![Résultat exercice 3](<img width="1280" height="720" alt="ex3" src="https://github.com/user-attachments/assets/535732ee-9fef-44ad-ac60-f14109c101d4" />
+)
 
 ---
 
@@ -87,7 +90,8 @@ exercices_poo/
 
 **Résultat de l'exécution :**
 
-![Résultat exercice 4](images/ex4.png)
+![Résultat exercice 4](<img width="1280" height="720" alt="ex4" src="https://github.com/user-attachments/assets/19cf8652-4b9a-4805-b65f-7db682b228ef" />
+)
 
 ---
 
@@ -101,7 +105,8 @@ exercices_poo/
 
 **Résultat de l'exécution :**
 
-![Résultat exercice 5](images/ex5.png)
+![Résultat exercice 5](<img width="1280" height="720" alt="ex5" src="https://github.com/user-attachments/assets/0b6e0b2e-bda6-480e-9308-ed0aabc4b7ca" />
+)
 
 ---
 
@@ -115,7 +120,8 @@ exercices_poo/
 
 **Résultat de l'exécution :**
 
-![Résultat exercice 6](images/ex6.png)
+![Résultat exercice 6](<img width="1280" height="731" alt="ex6" src="https://github.com/user-attachments/assets/25f15426-5ece-4f6b-9ea3-0f9225550d22" />
+)
 
 ---
 
@@ -129,7 +135,8 @@ exercices_poo/
 
 **Résultat de l'exécution :**
 
-![Résultat exercice 7](images/ex7.png)
+![Résultat exercice 7](<img width="1280" height="720" alt="ex7" src="https://github.com/user-attachments/assets/e8d3c302-2ef5-4e7b-8ddd-11c0082f5c86" />
+)
 
 ---
 
@@ -143,7 +150,8 @@ exercices_poo/
 
 **Résultat de l'exécution :**
 
-![Résultat exercice 8](images/ex8.png)
+![Résultat exercice 8](<img width="1280" height="720" alt="ex8" src="https://github.com/user-attachments/assets/7d436927-450e-408d-9fe0-1584ce297e34" />
+)
 
 ---
 
@@ -157,7 +165,8 @@ exercices_poo/
 
 **Résultat de l'exécution :**
 
-![Résultat exercice 9](images/ex9.png)
+![Résultat exercice 9](<img width="1280" height="720" alt="ex9" src="https://github.com/user-attachments/assets/da2bc343-fa36-4073-b910-c962dfc860c0" />
+)
 
 ---
 
@@ -171,6 +180,7 @@ exercices_poo/
 
 **Résultat de l'exécution :**
 
-![Résultat exercice 10](images/ex10.png)
+![Résultat exercice 10](<img width="1280" height="720" alt="ex10" src="https://github.com/user-attachments/assets/3fd63ab6-a151-487e-9a44-a31ffa8a6e5c" />
+)
 
 ---
