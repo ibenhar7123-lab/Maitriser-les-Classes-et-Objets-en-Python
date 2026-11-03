@@ -1,7 +1,5 @@
 # Exercices de Programmation Orientée Objet en Python
 
-Série de 10 exercices de POO réalisés en Python avec **Eclipse (PyDev)**.
-
 ## Sommaire
 
 1. [Exercice 1 — Compteur de visites de pages](#exercice-1)
@@ -33,9 +31,7 @@ exercices_poo/
 └── README.md
 ```
 
-## Exécution
 
-Ouvrir le fichier `main.py` d'un exercice, puis `Run As > Python Run`. Pour lancer tous les exercices à la suite, exécuter `run_all.py`.
 
 ---
 
